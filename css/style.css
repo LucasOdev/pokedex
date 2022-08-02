@@ -43,7 +43,7 @@ main {
     position: absolute;
     font-weight: 600;
     color: #aaa;
-    top:52%;
+    top:54.5%;
     right:27%;
     font-size:clamp(8px, 5vw, 25px); /*min desej max */
 }
